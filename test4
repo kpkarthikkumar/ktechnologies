@@ -1,0 +1,12 @@
+C2IN@LAPTOP-OSSE694E MINGW64 ~/karanam (master)
+$ ll
+total 1
+-rw-r--r-- 1 C2IN 197121 209 Sep 14 20:00 test1
+-rw-r--r-- 1 C2IN 197121   0 Sep 14 19:59 test2
+
+C2IN@LAPTOP-OSSE694E MINGW64 ~/karanam (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
